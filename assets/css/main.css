@@ -1756,9 +1756,9 @@ ul.icons li {
 ul.icons li a {
     display: inline-block;
     background: none;
-    width: 2.5em;
-    height: 2.5em;
-    line-height: 2.5em;
+    width: auto;
+    height: auto;
+    line-height: auto;
     text-align: center;
     border-radius: 100%;
     border: 0;
@@ -2014,7 +2014,7 @@ header .icon.circled {
 
 #header {
     position: relative;
-    background-image: url("../../images/violin.jpg");
+    background-image: url("../../images/7958A8C6-4D83-4F76-A13B-3D3FD97414D9.jpeg");
     background-size: cover;
     background-position: center center;
     background-attachment: fixed;
